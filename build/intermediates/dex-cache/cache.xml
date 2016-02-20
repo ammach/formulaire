@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ammach\Downloads\formulaire\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcf667faed44af7fab5adf28f1d52d5fb3593548">
+        <dex dex="C:\Users\ammach\Downloads\formulaire\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_dc1a7928230c44c4a1d5c82e48c43c3fa634cb5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ammach\Downloads\formulaire\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27f6e8f919b4da200fea6b825275133920071e2a">
+        <dex dex="C:\Users\ammach\Downloads\formulaire\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_24a75e0371de084759b6bd4850b0d9f16dc00812\classes.dex" />
+    </item>
+
+</items>

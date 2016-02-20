@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\build\\intermediates\\res\\merged\\debug\\menu\\modify.xml",
+        "source": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\src\\main\\res\\menu\\modify.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\build\\intermediates\\res\\merged\\debug\\menu\\form.xml",
+        "source": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\src\\main\\res\\menu\\form.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personnes.xml",
+        "source": "C:\\Users\\ammach\\Downloads\\formulaire\\app\\src\\main\\res\\menu\\personnes.xml"
+    }
+]
